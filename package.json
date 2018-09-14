@@ -1,0 +1,25 @@
+{
+  "name": "csdn",
+  "version": "1.0.0",
+  "description": "csdn",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/start.js"
+  },
+  "author": "zhuwu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "http": "0.0.0",
+    "morgan": "^1.9.0",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "vue": "^2.5.16",
+    "wangeditor": "^3.1.0",
+    "web3": "^1.0.0-beta.34"
+  }
+}
